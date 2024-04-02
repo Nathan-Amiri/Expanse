@@ -42,3 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1752455997
+    locked: 0
+  - name: Grid
+    uniqueID: 134903927
+    locked: 0
+  - name: NoCollision
+    uniqueID: 2811918587
+    locked: 0
+  - name: Colliders
+    uniqueID: 1405650821
+    locked: 0
+  - name: UI
+    uniqueID: 120570481
+    locked: 0

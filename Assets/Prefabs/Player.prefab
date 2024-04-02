@@ -218,8 +218,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1405650821
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 0.9057771, b: 0, a: 1}
@@ -245,11 +245,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 3646062020795968869}
-  moveSpeed: 8
-  jumpForce: 15
-  fallMultiplier: 3
-  lowJumpMultiplier: 10
-  jumpBuffer: 0.08
+  col: {fileID: -7075928909870655311}
+  gridManager: {fileID: 0}
+  mainCamera: {fileID: 0}
 --- !u!50 &3646062020795968869
 Rigidbody2D:
   serializedVersion: 4
@@ -325,10 +323,10 @@ PolygonCollider2D:
       - {x: -0.3696686, y: 0.5}
       - {x: -0.46800932, y: 0.47714964}
       - {x: -0.49999997, y: 0.41816235}
-      - {x: -0.5, y: -0.49314484}
-      - {x: -0.34478706, y: -0.5}
-      - {x: 0.2950241, y: -0.5}
-      - {x: 0.5035545, y: -0.49085996}
+      - {x: -0.5031525, y: -0.48199835}
+      - {x: -0.46616015, y: -0.4989867}
+      - {x: 0.46539462, y: -0.50182647}
+      - {x: 0.5035545, y: -0.48028916}
       - {x: 0.50031, y: 0.41357517}
       - {x: 0.43957317, y: 0.47257966}
   m_UseDelaunayMesh: 0
