@@ -12,11 +12,6 @@ public class Item : MonoBehaviour
     [SerializeField] private CircleCollider2D springCol;
     public float springTransparency;
 
-    public void DestroyItem()
-    {
-        Destroy(gameObject);
-    }
-
     public void OnTriggerEnter2D(Collider2D col)
     {
         if (!col.CompareTag("Player"))
@@ -29,10 +24,7 @@ public class Item : MonoBehaviour
         else if (itemType == 2) // Spike
             player.Die();
         else if (itemType == 3)
-        {
-            player.OpenChest();
-            DestroyItem();
-        }
+            player.OpenChest(Vector2Int.RoundToInt(transform.position));
     }
 
     public void ToggleSpringReady(bool ready)

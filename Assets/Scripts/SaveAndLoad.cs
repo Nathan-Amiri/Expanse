@@ -26,7 +26,6 @@ public class SaveAndLoad : MonoBehaviour
         }
     }
 
-    // Only used in editor to create levels. Comment method when shipping build
     public void SaveLayout()
     {
         LayoutData layoutData = new();

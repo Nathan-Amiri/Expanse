@@ -48,6 +48,9 @@ TagManager:
   - name: Grid
     uniqueID: 134903927
     locked: 0
+  - name: Tutorial
+    uniqueID: 1017741783
+    locked: 0
   - name: NoCollision
     uniqueID: 2811918587
     locked: 0

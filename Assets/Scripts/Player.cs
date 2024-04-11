@@ -47,6 +47,8 @@ public class Player : MonoBehaviour
     private bool jumpInputDown;
     private bool jumpInput;
 
+    private bool bouncing;
+
     private Item springToPlace;
 
     public int currentMaterial;
@@ -80,7 +82,7 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
             jumpInputDown = true;
 
-        jumpInput = Input.GetButton("Jump");
+        jumpInput = Input.GetButton("Jump") && !bouncing;
 
         if (EventSystem.current.IsPointerOverGameObject())
             return;
@@ -140,6 +142,8 @@ public class Player : MonoBehaviour
 
         if (jumpInputDown)
         {
+            bouncing = false;
+
             if (!hasJump)
                 StartCoroutine(JumpBuffer());
             else
@@ -174,7 +178,7 @@ public class Player : MonoBehaviour
         if (spawnPosition == Vector2Int.RoundToInt((Vector2)transform.position))
             return;
 
-        if (MathF.Abs(spawnPosition.x) > 112 || MathF.Abs(spawnPosition.y) > 112)
+        if (MathF.Abs(spawnPosition.x) > 111 || MathF.Abs(spawnPosition.y) > 111)
             return;
 
         if (GridManager.gridIndex.ContainsKey(spawnPosition))
@@ -182,8 +186,19 @@ public class Player : MonoBehaviour
 
         currentSpawnPosition = spawnPosition;
 
+        int itemType = block ? 0 : 1;
+
+        // Place Spikes when editing level in editor
+        if (Application.isEditor)
+        {
+            if (Input.GetKey(KeyCode.LeftShift))
+                itemType = 2;
+            else if (Input.GetKey(KeyCode.LeftControl))
+                itemType = 3;
+        }
+
         if (block)
-            gridManager.SpawnItem(0, spawnPosition, Quaternion.identity);
+            gridManager.SpawnItem(itemType, spawnPosition, Quaternion.identity);
         else // Spring
         {
             springToPlace = gridManager.SpawnItem(1, spawnPosition, Quaternion.identity);
@@ -210,6 +225,11 @@ public class Player : MonoBehaviour
         if (!GridManager.gridIndex.ContainsKey(destroyPosition))
             return;
 
+        // Prevent Spike and Chest destroying outside of the editor
+        Item item = GridManager.gridIndex[destroyPosition];
+        if (!Application.isEditor && item.itemType > 1)
+            return;
+
         destroyRoutine = StartCoroutine(DestroyMeter(destroyPosition));
     }
     private IEnumerator DestroyMeter(Vector2Int destroyPosition)
@@ -230,6 +250,8 @@ public class Player : MonoBehaviour
         gridManager.DestroyItem(destroyPosition);
 
         justDestroyed = true;
+
+        currentSpawnPosition = Vector2Int.zero;
     }
 
 
@@ -260,6 +282,8 @@ public class Player : MonoBehaviour
 
     public void Bounce(Vector2 bounceDirection)
     {
+        bouncing = true;
+
         rb.velocity = Vector2.zero;
 
         Vector2 bounceVelocity = bounceForce * bounceDirection;
@@ -270,8 +294,10 @@ public class Player : MonoBehaviour
         StartCoroutine(audioManager.PlayClip(3));
     }
 
-    public void OpenChest()
+    public void OpenChest(Vector2Int chestPosition)
     {
+        gridManager.DestroyItem(chestPosition);
+
         currentMaterial += materialPerChest;
         //.chest points? update score?
 

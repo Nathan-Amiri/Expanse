@@ -14,6 +14,7 @@ public class GridManager : MonoBehaviour
     [SerializeField] private GameObject levelSelectScreen;
     [SerializeField] private GameObject mainMenu;
     [SerializeField] private GameObject confirmationScreen;
+    [SerializeField] private GameObject tutorialText;
 
     [SerializeField] private Transform itemParent;
 
@@ -32,14 +33,14 @@ public class GridManager : MonoBehaviour
         if (!gridIndex.ContainsKey(destroyPosition))
             Debug.LogError("Attempted to destroy item at empty position");
 
-        gridIndex[destroyPosition].DestroyItem();
+        Destroy(gridIndex[destroyPosition].gameObject);
         gridIndex.Remove(destroyPosition);
     }
 
     public void ClearGrid()
     {
         foreach (KeyValuePair<Vector2Int, Item> gridIndexEntry in gridIndex)
-            gridIndexEntry.Value.DestroyItem();
+            Destroy(gridIndexEntry.Value.gameObject);
 
         gridIndex.Clear();
     }
@@ -49,13 +50,9 @@ public class GridManager : MonoBehaviour
         if (!Application.isEditor)
             return;
 
-        // Developer only
+        // Developer commands
         if (Input.GetKeyDown(KeyCode.Alpha1))
-            ClearGrid();
-        if (Input.GetKeyDown(KeyCode.Alpha2))
             saveAndLoad.SaveLayout();
-        if (Input.GetKeyDown(KeyCode.Alpha3))
-            player.Die();
     }
 
     public void SelectLevel(int level)
@@ -66,6 +63,9 @@ public class GridManager : MonoBehaviour
         player.gameObject.SetActive(true);
 
         mainMenu.SetActive(true);
+
+        if (level == 0)
+            tutorialText.SetActive(true);
     }
 
     public void ReturnToMenu()
@@ -82,6 +82,8 @@ public class GridManager : MonoBehaviour
 
         confirmationScreen.SetActive(false);
         levelSelectScreen.SetActive(true);
+
+        tutorialText.SetActive(false);
     }
     public void ResumeGame()
     {
