@@ -10,7 +10,7 @@ public class GroundCheck : MonoBehaviour
         if (col.CompareTag("Terrain"))
         {
             player.isGrounded = true;
-            player.lastGroundedPosition = new(Mathf.RoundToInt(col.transform.position.x), Mathf.RoundToInt(col.transform.position.y) + 1.25f);
+            player.lastGroundedPosition = Vector2Int.RoundToInt(col.transform.position + new Vector3(0, 1));
         }
     }
     private void OnTriggerExit2D(Collider2D col)

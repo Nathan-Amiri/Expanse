@@ -5,55 +5,29 @@ using System.IO;
 
 public class SaveAndLoad : MonoBehaviour
 {
-    // STATIC:
-    private readonly List<string> saveFiles = new();
-
     // SCENE REFERENCE:
     [SerializeField] private GridManager gridManager;
 
-    [SerializeField] private TextAsset tutorialGridFile;
-
-    private void Awake()
-    {
-        // Application.persistentDataPath cannot be called in a constructor
-        saveFiles.Add(Application.persistentDataPath + "/Grid1.json");
-        saveFiles.Add(Application.persistentDataPath + "/Grid2.json");
-        saveFiles.Add(Application.persistentDataPath + "/Grid3.json");
-
-        // Create save files
-        foreach (string file in saveFiles)
-            if (!File.Exists(file))
-                File.WriteAllText(file, string.Empty);
-    }
+    [SerializeField] private List<TextAsset> levelGridFiles = new();
 
 
-    public void LoadLayout(int newLayoutNumber, bool tutorial = false)
+    public void LoadLayout(int newLayoutNumber)
     {
         gridManager.ClearGrid();
 
-        LayoutData layoutData;
-
-        if (tutorial)
-        {
-            string fileContents = tutorialGridFile.ToString();
-            layoutData = JsonUtility.FromJson<LayoutData>(fileContents);
-        }
-        else
-        {
-            string file = saveFiles[newLayoutNumber];
-            string fileContents = File.ReadAllText(file);
-            layoutData = JsonUtility.FromJson<LayoutData>(fileContents);
-        }
+        string fileContents = levelGridFiles[newLayoutNumber].ToString();
+        LayoutData layoutData = JsonUtility.FromJson<LayoutData>(fileContents);
 
         foreach (ItemData itemData in layoutData.itemsInLayout)
         {
             Quaternion cellRotation = Quaternion.Euler(0, 0, itemData.itemRotation);
 
-            gridManager.SpawnItem(itemData.itemType, itemData.itemPosition, cellRotation, true);
+            gridManager.SpawnItem(itemData.itemType, itemData.itemPosition, cellRotation);
         }
     }
 
-    public void SaveLayout(int currentLayoutNumber) //.no need to ever save when in tutorial!
+    // Only used in editor to create levels. Comment method when shipping build
+    public void SaveLayout()
     {
         LayoutData layoutData = new();
 
@@ -72,8 +46,7 @@ public class SaveAndLoad : MonoBehaviour
 
         string jsonString = JsonUtility.ToJson(layoutData, true);
 
-        string saveFile = saveFiles[currentLayoutNumber];
-        File.WriteAllText(saveFile, jsonString);
+        File.WriteAllText(Application.persistentDataPath + "/DeveloperGrid.json", jsonString);
     }
 }
 

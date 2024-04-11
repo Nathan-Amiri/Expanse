@@ -9,22 +9,31 @@ public class GridManager : MonoBehaviour
 
     // SCENE REFERENCE:
     [SerializeField] private SaveAndLoad saveAndLoad;
+    [SerializeField] private Player player;
+
+    [SerializeField] private GameObject levelSelectScreen;
+    [SerializeField] private GameObject mainMenu;
+    [SerializeField] private GameObject confirmationScreen;
+
+    [SerializeField] private Transform itemParent;
 
     [SerializeField] private List<Item> itemPrefs = new(); // 0 = block, 1 = spring, 2 = spike, 3 = chest
 
-    // DYNAMIC:
-    public int currentLayoutNumber { get; private set; }
-
-    public void SpawnItem(int itemType, Vector2Int itemPosition, Quaternion itemRotation, bool layoutLoading)
+    public Item SpawnItem(int itemType, Vector2Int itemPosition, Quaternion itemRotation)
     {
-        //.if layout loading, don't play itemspawn audio
-
-        Item item = Instantiate(itemPrefs[itemType], (Vector2)itemPosition, itemRotation);
+        Item item = Instantiate(itemPrefs[itemType], (Vector2)itemPosition, itemRotation, itemParent);
 
         gridIndex.Add(itemPosition, item);
 
-        if (!layoutLoading)
-            saveAndLoad.SaveLayout(currentLayoutNumber);
+        return item;
+    }
+    public void DestroyItem(Vector2Int destroyPosition)
+    {
+        if (!gridIndex.ContainsKey(destroyPosition))
+            Debug.LogError("Attempted to destroy item at empty position");
+
+        gridIndex[destroyPosition].DestroyItem();
+        gridIndex.Remove(destroyPosition);
     }
 
     public void ClearGrid()
@@ -37,16 +46,46 @@ public class GridManager : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
-            SpawnItem(0, new(0, 0), Quaternion.identity, false);
-        
-        if (Input.GetKeyDown(KeyCode.W))
-            saveAndLoad.SaveLayout(0);
+        if (!Application.isEditor)
+            return;
 
-        if (Input.GetKeyDown(KeyCode.E))
+        // Developer only
+        if (Input.GetKeyDown(KeyCode.Alpha1))
             ClearGrid();
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+            saveAndLoad.SaveLayout();
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+            player.Die();
+    }
 
-        if (Input.GetKeyDown(KeyCode.R))
-            saveAndLoad.LoadLayout(0);
+    public void SelectLevel(int level)
+    {
+        saveAndLoad.LoadLayout(level);
+
+        levelSelectScreen.SetActive(false);
+        player.gameObject.SetActive(true);
+
+        mainMenu.SetActive(true);
+    }
+
+    public void ReturnToMenu()
+    {
+        mainMenu.SetActive(false);
+        confirmationScreen.SetActive(true);
+    }
+    public void ConfirmQuit()
+    {
+        ClearGrid();
+
+        player.gameObject.transform.position = Vector2.zero;
+        player.gameObject.SetActive(false);
+
+        confirmationScreen.SetActive(false);
+        levelSelectScreen.SetActive(true);
+    }
+    public void ResumeGame()
+    {
+        confirmationScreen.SetActive(false);
+        mainMenu.SetActive(true);
     }
 }

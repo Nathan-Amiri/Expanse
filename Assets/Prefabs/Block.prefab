@@ -76,8 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: 1405650821
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 38e4de29d0af61641a20fd8d2df85c79, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -100,6 +100,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 0
+  springSR: {fileID: 0}
+  springCol: {fileID: 0}
+  springTransparency: 0
 --- !u!50 &6628955912326524084
 Rigidbody2D:
   serializedVersion: 4
