@@ -13,6 +13,7 @@ public class Player : MonoBehaviour
 
     // SCENE REFERENCE:
     [SerializeField] private GridManager gridManager;
+    [SerializeField] private SaveAndLoad saveAndLoad;
     [SerializeField] private AudioManager audioManager;
 
     [SerializeField] private Camera mainCamera;
@@ -65,7 +66,7 @@ public class Player : MonoBehaviour
 
     private Item bouncePadToPlace;
 
-    [NonSerialized] public int currentMaterial;
+    private int currentMaterial;
     private int penaltyPoints;
     private int chestPoints;
 
@@ -93,6 +94,9 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        if (Application.isEditor)
+            LevelEditorControls();
+
         materialText.text = "Material: " + currentMaterial;
         penaltyText.text = "Penalty: " + penaltyPoints;
         chestText.text = "Chest Points: " + chestPoints;
@@ -149,6 +153,25 @@ public class Player : MonoBehaviour
 
         if (Input.GetMouseButtonDown(1) && bouncePadToPlace == null)
             SpawnItem(false);
+    }
+
+    private void LevelEditorControls() // Run in Update
+    {
+        // Developer commands
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+            saveAndLoad.SaveLayout();
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            List<Vector2Int> positions = new();
+            foreach (KeyValuePair<Vector2Int, Item> gridIndexEntry in GridManager.gridIndex)
+                if (gridIndexEntry.Value.itemType == 0)
+                    positions.Add(gridIndexEntry.Key);
+
+            foreach (Vector2Int position in positions)
+                gridManager.DestroyItem(position);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+            currentMaterial += 100000;
     }
 
     private void FixedUpdate()
@@ -249,7 +272,6 @@ public class Player : MonoBehaviour
         }
 
         currentMaterial -= block ? 1 : 2;
-
 
         StartCoroutine(audioManager.PlayClip(2));
     }

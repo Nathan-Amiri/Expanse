@@ -54,16 +54,6 @@ public class GridManager : MonoBehaviour
         gridIndex.Clear();
     }
 
-    private void Update()
-    {
-        if (!Application.isEditor)
-            return;
-
-        // Developer commands
-        if (Input.GetKeyDown(KeyCode.Alpha1))
-            saveAndLoad.SaveLayout();
-    }
-
     public void SelectLevel(int level)
     {
         saveAndLoad.LoadLayout(level);
