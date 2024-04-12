@@ -13,12 +13,13 @@ public class GridManager : MonoBehaviour
 
     [SerializeField] private GameObject levelSelectScreen;
     [SerializeField] private GameObject mainMenu;
+    [SerializeField] private GameObject infoText;
     [SerializeField] private GameObject confirmationScreen;
     [SerializeField] private GameObject tutorialText;
 
     [SerializeField] private Transform itemParent;
 
-    [SerializeField] private List<Item> itemPrefs = new(); // 0 = block, 1 = spring, 2 = spike, 3 = chest
+    [SerializeField] private List<Item> itemPrefs = new(); // 0 = block, 1 = bounce pad, 2 = spike, 3 = chest
 
     public Item SpawnItem(int itemType, Vector2Int itemPosition, Quaternion itemRotation)
     {
@@ -63,6 +64,7 @@ public class GridManager : MonoBehaviour
         player.gameObject.SetActive(true);
 
         mainMenu.SetActive(true);
+        infoText.SetActive(true);
 
         if (level == 0)
             tutorialText.SetActive(true);
@@ -77,8 +79,12 @@ public class GridManager : MonoBehaviour
     {
         ClearGrid();
 
-        player.gameObject.transform.position = Vector2.zero;
+        player.bouncePadToPlace = null;
+
+        player.Reset();
         player.gameObject.SetActive(false);
+
+        infoText.SetActive(false);
 
         confirmationScreen.SetActive(false);
         levelSelectScreen.SetActive(true);

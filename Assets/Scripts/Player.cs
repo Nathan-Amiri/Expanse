@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -19,6 +20,13 @@ public class Player : MonoBehaviour
     [SerializeField] private GameObject destroyMeter;
     [SerializeField] private Transform destroyBarScaler;
 
+    [SerializeField] private TMP_Text materialText;
+    [SerializeField] private TMP_Text penaltyText;
+    [SerializeField] private TMP_Text chestText;
+    [SerializeField] private TMP_Text totalText;
+
+    [SerializeField] private GameObject noMaterialMessage;
+
     // CONSTANT:
     private readonly float gravityScale = 3.5f;
     private readonly float moveSpeed = 8;
@@ -32,15 +40,18 @@ public class Player : MonoBehaviour
 
     private readonly float deathWarpDuration = .15f;
 
-    private readonly int materialPerChest = 100;
-
     private readonly float destroyDuration = 1;
+
+    private readonly int startingMaterial = 25;
+    private readonly int materialPerChest = 25;
+    private readonly int pointsPerChest = 25;
+    private readonly int materialPerDestroy = 25;
+    private readonly int penaltyPerDestroy = -50;
 
     // DYNAMIC:
     private Vector2 mousePosition;
 
-        // Set by GridManager
-    [NonSerialized] public bool isStunned;
+    private bool isStunned;
 
     private float moveInput;
     private bool hasJump;
@@ -49,9 +60,12 @@ public class Player : MonoBehaviour
 
     private bool bouncing;
 
-    private Item springToPlace;
+        // Set by GridManager
+    [NonSerialized] public Item bouncePadToPlace;
 
-    public int currentMaterial;
+    [NonSerialized] public int currentMaterial;
+    private int penaltyPoints;
+    private int chestPoints;
 
         // Set by GroundCheck:
     [NonSerialized] public bool isGrounded;
@@ -63,16 +77,26 @@ public class Player : MonoBehaviour
     private Coroutine destroyRoutine;
     private bool justDestroyed;
 
+    private void Start()
+    {
+        Reset();
+    }
+
     private void Update()
     {
+        materialText.text = "Material: " + currentMaterial;
+        penaltyText.text = "Penalty: " + penaltyPoints;
+        chestText.text = "Chest Points: " + chestPoints;
+        totalText.text = "Total: " + (currentMaterial + penaltyPoints + chestPoints);
+
         Vector3 tempMousePosition = Input.mousePosition;
         tempMousePosition.z = -mainCamera.transform.position.z;
         mousePosition = mainCamera.ScreenToWorldPoint(tempMousePosition);
 
         rb.gravityScale = isStunned ? 0 : gravityScale;
 
-        if (springToPlace != null)
-            springToPlace.SetSpringRotation(mousePosition);
+        if (bouncePadToPlace != null)
+            bouncePadToPlace.SetBouncePadRotation(mousePosition);
 
         if (isStunned)
             return;
@@ -83,6 +107,14 @@ public class Player : MonoBehaviour
             jumpInputDown = true;
 
         jumpInput = Input.GetButton("Jump") && !bouncing;
+
+
+        // Can aim Bounce Pads over UI, return before spawning another
+        if (Input.GetMouseButtonDown(1) && bouncePadToPlace != null)
+        {
+            PlaceBouncePad();
+            return;
+        }
 
         if (EventSystem.current.IsPointerOverGameObject())
             return;
@@ -106,13 +138,8 @@ public class Player : MonoBehaviour
         if (Input.GetMouseButton(0))
             SpawnItem(true);
 
-        if (Input.GetMouseButtonDown(1))
-        {
-            if (springToPlace == null)
-                SpawnItem(false);
-            else
-                PlaceSpring();
-        }
+        if (Input.GetMouseButtonDown(1) && bouncePadToPlace == null)
+            SpawnItem(false);
     }
 
     private void FixedUpdate()
@@ -166,6 +193,12 @@ public class Player : MonoBehaviour
 
     private void SpawnItem(bool block)
     {
+        if (currentMaterial < (block ? 1 : 2))
+        {
+            StartCoroutine(NoMaterial());
+            return;
+        }
+
         Vector2Int spawnPosition = Vector2Int.RoundToInt(mousePosition);
 
         // Check if the mouse has moved before searching the grid index
@@ -199,21 +232,30 @@ public class Player : MonoBehaviour
 
         if (block)
             gridManager.SpawnItem(itemType, spawnPosition, Quaternion.identity);
-        else // Spring
+        else // Bounce Pad
         {
-            springToPlace = gridManager.SpawnItem(1, spawnPosition, Quaternion.identity);
+            bouncePadToPlace = gridManager.SpawnItem(1, spawnPosition, Quaternion.identity);
 
-            springToPlace.ToggleSpringReady(false);
+            bouncePadToPlace.ToggleBouncePadReady(false);
         }
+
+        currentMaterial -= block ? 1 : 2;
+
 
         StartCoroutine(audioManager.PlayClip(2));
     }
-
-    private void PlaceSpring()
+    private IEnumerator NoMaterial()
     {
-        springToPlace.ToggleSpringReady(true);
+        noMaterialMessage.SetActive(true);
+        yield return new WaitForSeconds(1.5f);
+        noMaterialMessage.SetActive(false);
+    }
 
-        springToPlace = null;
+    private void PlaceBouncePad()
+    {
+        bouncePadToPlace.ToggleBouncePadReady(true);
+
+        bouncePadToPlace = null;
 
         StartCoroutine(audioManager.PlayClip(2));
     }
@@ -252,6 +294,9 @@ public class Player : MonoBehaviour
         justDestroyed = true;
 
         currentSpawnPosition = Vector2Int.zero;
+
+        currentMaterial += materialPerDestroy;
+        penaltyPoints += penaltyPerDestroy;
     }
 
 
@@ -299,8 +344,16 @@ public class Player : MonoBehaviour
         gridManager.DestroyItem(chestPosition);
 
         currentMaterial += materialPerChest;
-        //.chest points? update score?
+        chestPoints += pointsPerChest;
 
         StartCoroutine(audioManager.PlayClip(5));
+    }
+
+    public void Reset() // Called by GridManager
+    {
+        transform.position = Vector2.zero;
+        currentMaterial = startingMaterial;
+        penaltyPoints = 0;
+        chestPoints = 0;
     }
 }

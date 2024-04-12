@@ -58,7 +58,7 @@ public class LayoutData
 [System.Serializable]
 public class ItemData
 {
-    public int itemType; // 0 = block, 1 = spring, 2 = spike, 3 = chest
+    public int itemType; // 0 = block, 1 = bounce pad, 2 = spike, 3 = chest
     public int itemRotation;
     public Vector2Int itemPosition;
 }
