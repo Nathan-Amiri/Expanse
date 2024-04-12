@@ -27,6 +27,10 @@ public class Player : MonoBehaviour
 
     [SerializeField] private GameObject noMaterialMessage;
 
+    [SerializeField] private GameObject finishScreen;
+    [SerializeField] private GameObject returnToMenu;
+    [SerializeField] private TMP_Text finishScore;
+
     // CONSTANT:
     private readonly float gravityScale = 3.5f;
     private readonly float moveSpeed = 8;
@@ -42,7 +46,6 @@ public class Player : MonoBehaviour
 
     private readonly float destroyDuration = 1;
 
-    private readonly int startingMaterial = 25;
     private readonly int materialPerChest = 25;
     private readonly int pointsPerChest = 25;
     private readonly int materialPerDestroy = 25;
@@ -60,8 +63,7 @@ public class Player : MonoBehaviour
 
     private bool bouncing;
 
-        // Set by GridManager
-    [NonSerialized] public Item bouncePadToPlace;
+    private Item bouncePadToPlace;
 
     [NonSerialized] public int currentMaterial;
     private int penaltyPoints;
@@ -77,9 +79,16 @@ public class Player : MonoBehaviour
     private Coroutine destroyRoutine;
     private bool justDestroyed;
 
-    private void Start()
+    public void StartLevel(bool tutorial) // Called by GridManager
     {
-        Reset();
+        transform.position = Vector2.zero;
+        isStunned = false;
+
+        currentMaterial = tutorial ? 100 : materialPerChest;
+        penaltyPoints = 0;
+        chestPoints = 0;
+
+        bouncePadToPlace = null;
     }
 
     private void Update()
@@ -347,13 +356,15 @@ public class Player : MonoBehaviour
         chestPoints += pointsPerChest;
 
         StartCoroutine(audioManager.PlayClip(5));
-    }
 
-    public void Reset() // Called by GridManager
-    {
-        transform.position = Vector2.zero;
-        currentMaterial = startingMaterial;
-        penaltyPoints = 0;
-        chestPoints = 0;
+        if (GridManager.chestIndex.Count == 0)
+        {
+            rb.velocity = Vector2.zero;
+            isStunned = true;
+            finishScreen.SetActive(true);
+            returnToMenu.SetActive(false);
+
+            finishScore.text = "Score: " + (currentMaterial + penaltyPoints + chestPoints);
+        }
     }
 }

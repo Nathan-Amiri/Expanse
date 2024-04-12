@@ -10,7 +10,15 @@ public class Item : MonoBehaviour
         // Bounce Pad only
     [SerializeField] private SpriteRenderer bouncePadSR;
     [SerializeField] private CircleCollider2D bouncePadCol;
+
+    // CONSTANT:
     private readonly float bouncePadTransparency = .8f;
+
+    private void Start()
+    {
+        if (itemType == 3)
+            GridManager.chestIndex.Add(this);
+    }
 
     public void OnTriggerEnter2D(Collider2D col)
     {
