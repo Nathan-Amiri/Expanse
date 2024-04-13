@@ -62,6 +62,8 @@ public class Player : MonoBehaviour
     private bool jumpInputDown;
     private bool jumpInput;
 
+    private Coroutine deathWarpRoutine;
+
     private bool bouncing;
 
     private Item bouncePadToPlace;
@@ -69,6 +71,11 @@ public class Player : MonoBehaviour
     private int currentMaterial;
     private int penaltyPoints;
     private int chestPoints;
+
+    private int bonusChestsFound;
+        // Read by BonusSpike
+    [NonSerialized] public bool celesteBonusChestReceived;
+    private bool vvvvvvBonusChestReceived;
 
         // Set by GroundCheck:
     [NonSerialized] public bool isGrounded;
@@ -82,6 +89,12 @@ public class Player : MonoBehaviour
 
     public void StartLevel(bool tutorial) // Called by GridManager
     {
+        if (deathWarpRoutine != null)
+        {
+            StopCoroutine(deathWarpRoutine);
+            col.enabled = true;
+        }
+
         transform.position = Vector2.zero;
         isStunned = false;
 
@@ -90,6 +103,9 @@ public class Player : MonoBehaviour
         chestPoints = 0;
 
         bouncePadToPlace = null;
+
+        celesteBonusChestReceived = false;
+        vvvvvvBonusChestReceived = false;
     }
 
     private void Update()
@@ -335,7 +351,7 @@ public class Player : MonoBehaviour
     {
         col.enabled = false;
 
-        StartCoroutine(DeathWarp(deathWarpDuration));
+        deathWarpRoutine = StartCoroutine(DeathWarp(deathWarpDuration));
 
         isStunned = true;
 
@@ -388,5 +404,14 @@ public class Player : MonoBehaviour
 
             finishScore.text = "Score: " + (currentMaterial + penaltyPoints + chestPoints);
         }
+    }
+
+    public void BonusChest(Vector2Int bonusChestPosition)
+    {
+        bonusChestsFound += 1;
+
+        // message
+
+        StartCoroutine(audioManager.PlayClip(7));
     }
 }

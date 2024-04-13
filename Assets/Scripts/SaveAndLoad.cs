@@ -13,8 +13,6 @@ public class SaveAndLoad : MonoBehaviour
 
     public void LoadLayout(int newLayoutNumber)
     {
-        gridManager.ClearGrid();
-
         string fileContents = levelGridFiles[newLayoutNumber].ToString();
         LayoutData layoutData = JsonUtility.FromJson<LayoutData>(fileContents);
 

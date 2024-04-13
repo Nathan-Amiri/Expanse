@@ -20,6 +20,16 @@ public class Item : MonoBehaviour
             GridManager.chestIndex.Add(this);
     }
 
+    private void OnDestroy()
+    {
+        // Used for developer level editing
+        Vector2Int position = Vector2Int.RoundToInt(transform.position);
+        if (GridManager.gridIndex.ContainsKey(position))
+            GridManager.gridIndex.Remove(position);
+        if (GridManager.chestIndex.Contains(this))
+            GridManager.chestIndex.Remove(this);
+    }
+
     public void OnTriggerEnter2D(Collider2D col)
     {
         if (!col.CompareTag("Player"))

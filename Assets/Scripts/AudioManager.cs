@@ -6,7 +6,7 @@ public class AudioManager : MonoBehaviour
 {
     [SerializeField] private AudioSource audioSource;
 
-    // 0 = UI Click, 1 = Jump, 2 = PlaceItem, 3 = Bounce, 4 = Die, 5 = OpenChest, 6 = Destroy
+    // 0 = UI Click, 1 = Jump, 2 = PlaceItem, 3 = Bounce, 4 = Die, 5 = OpenChest, 6 = Destroy, 7 = BonusChest
     [SerializeField] private List<AudioClip> clipList = new();
     [SerializeField] private List<float> volumeList = new();
 

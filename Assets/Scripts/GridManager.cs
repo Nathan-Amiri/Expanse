@@ -46,14 +46,6 @@ public class GridManager : MonoBehaviour
         gridIndex.Remove(destroyPosition);
     }
 
-    public void ClearGrid()
-    {
-        foreach (KeyValuePair<Vector2Int, Item> gridIndexEntry in gridIndex)
-            Destroy(gridIndexEntry.Value.gameObject);
-
-        gridIndex.Clear();
-    }
-
     public void SelectLevel(int level)
     {
         saveAndLoad.LoadLayout(level);
@@ -79,7 +71,12 @@ public class GridManager : MonoBehaviour
     }
     public void ConfirmQuit()
     {
-        ClearGrid();
+        foreach (KeyValuePair<Vector2Int, Item> gridIndexEntry in gridIndex)
+            Destroy(gridIndexEntry.Value.gameObject);
+
+        gridIndex.Clear();
+        chestIndex.Clear();
+
 
         player.transform.position = Vector2.zero;
         player.gameObject.SetActive(false);
