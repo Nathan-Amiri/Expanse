@@ -54143,6 +54143,78 @@
                 "x": 88,
                 "y": 96
             }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 47
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 48
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 49
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 50
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 51
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 52
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 53
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 54
+            }
+        },
+        {
+            "itemType": 2,
+            "itemRotation": 0,
+            "itemPosition": {
+                "x": 45,
+                "y": 46
+            }
         }
     ]
 }

@@ -7,6 +7,9 @@ public class Item : MonoBehaviour
     // PREFAB REFERENCE:
     public int itemType; // 0 = block, 1 = bounce pad, 2 = spike, 3 = chest
 
+    // SCENE REFERENCE:
+    public bool bonusSpike;
+
         // Bounce Pad only
     [SerializeField] private SpriteRenderer bouncePadSR;
     [SerializeField] private CircleCollider2D bouncePadCol;

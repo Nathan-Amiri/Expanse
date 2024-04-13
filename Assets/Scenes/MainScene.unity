@@ -233,6 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1683888
@@ -397,6 +398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2242788
@@ -561,6 +563,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &4413246
@@ -725,6 +728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &12669450
@@ -889,6 +893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &12842656
@@ -1053,6 +1058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &16627035
@@ -1217,6 +1223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &17635664
@@ -1381,6 +1388,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &24152895
@@ -1545,6 +1553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &33671310
@@ -1709,6 +1718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &33821393
@@ -1873,6 +1883,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &35005476
@@ -2115,6 +2126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &36775018
@@ -2279,6 +2291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &37874908
@@ -2443,6 +2456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &38894164
@@ -2607,6 +2621,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &42653063
@@ -2771,6 +2786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &44556053
@@ -2935,6 +2951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &45049701
@@ -3099,6 +3116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &52568417
@@ -3263,6 +3281,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &54391890
@@ -3427,6 +3446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &58434731
@@ -3591,6 +3611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &58977110
@@ -3755,6 +3776,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &59151001
@@ -3919,6 +3941,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &63857930
@@ -4083,6 +4106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &65544954
@@ -4145,6 +4169,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 46
@@ -4312,6 +4340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &73344429
@@ -4476,6 +4505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &76661611
@@ -4640,6 +4670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &77940531
@@ -4804,6 +4835,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &79881383
@@ -4968,6 +5000,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &81075395
@@ -5132,6 +5165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &82433402
@@ -5194,6 +5228,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 47
@@ -5361,6 +5399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &82496927
@@ -5525,6 +5564,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &83643508
@@ -5689,6 +5729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &84829168
@@ -5853,6 +5894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &86093982
@@ -6017,6 +6059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &86903097
@@ -6181,6 +6224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &86924478
@@ -6345,6 +6389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &88483864
@@ -6509,6 +6554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &89106093
@@ -6673,6 +6719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &91656679
@@ -6837,6 +6884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &94764553
@@ -7001,6 +7049,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &96462902
@@ -7249,6 +7298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &107628428
@@ -7413,6 +7463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &113104933
@@ -7577,6 +7628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &113490646
@@ -7741,6 +7793,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &120116130
@@ -7905,6 +7958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &120603386
@@ -8069,6 +8123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &123605944
@@ -8233,6 +8288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &125578721
@@ -8397,6 +8453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &128327207
@@ -8561,6 +8618,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &128831553
@@ -8725,6 +8783,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &129373964
@@ -8889,6 +8948,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &129628216
@@ -9053,6 +9113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &133136695
@@ -9217,6 +9278,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &137189596
@@ -9381,6 +9443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &138437963
@@ -9545,6 +9608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &138595731
@@ -9709,6 +9773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &139308017
@@ -9873,6 +9938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &140026052
@@ -10037,6 +10103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &141488249
@@ -10201,6 +10268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &142500009
@@ -10365,6 +10433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &143915004
@@ -10529,6 +10598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &143944735
@@ -10693,6 +10763,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &147563765
@@ -10857,6 +10928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &149031634
@@ -11021,6 +11093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &149570304
@@ -11185,6 +11258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &150868660
@@ -11349,6 +11423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &155282243
@@ -11513,6 +11588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &155329299
@@ -11828,6 +11904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &164413268
@@ -11992,6 +12069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &165681123
@@ -12156,6 +12234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &166914183
@@ -12320,6 +12399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &172537996
@@ -12618,6 +12698,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &182364985
@@ -12782,6 +12863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &187586194
@@ -12946,6 +13028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &190961747
@@ -13110,6 +13193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &191482255
@@ -13274,6 +13358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &194349161
@@ -13438,6 +13523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &194857404
@@ -13602,6 +13688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &195464319
@@ -13766,6 +13853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &198180617
@@ -13930,6 +14018,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &201451973
@@ -14094,6 +14183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &205089197
@@ -14258,6 +14348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &207149333
@@ -14422,6 +14513,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &209457445
@@ -14586,6 +14678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &210752771
@@ -14750,6 +14843,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &212395179
@@ -14914,6 +15008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &215659704
@@ -15078,6 +15173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &225839601
@@ -15242,6 +15338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &230830396
@@ -15406,6 +15503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &232466940
@@ -15570,6 +15668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &232550966
@@ -15734,6 +15833,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &232596424
@@ -15898,6 +15998,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &232876135
@@ -16062,6 +16163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &238305546
@@ -16310,6 +16412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &245783242
@@ -16474,6 +16577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &248845605
@@ -16638,6 +16742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &249404068
@@ -16802,6 +16907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &250378796
@@ -16966,6 +17072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &251699319
@@ -17130,6 +17237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &256271568
@@ -17294,6 +17402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &259038139
@@ -17463,6 +17572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &261487446
@@ -17627,6 +17737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &262167714
@@ -17791,6 +17902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &263156960
@@ -17955,6 +18067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &265471401
@@ -18119,6 +18232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &267120149
@@ -18283,6 +18397,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &267692350
@@ -18447,6 +18562,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &268355339
@@ -18611,6 +18727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &274920544
@@ -18775,6 +18892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &277214481
@@ -18939,6 +19057,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &278833666
@@ -19103,6 +19222,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &278904489
@@ -19267,6 +19387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &281267731
@@ -19431,6 +19552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &281809258
@@ -19595,6 +19717,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &282090421
@@ -19759,6 +19882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &287065539
@@ -19923,6 +20047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &287240706
@@ -20087,6 +20212,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &287474018
@@ -20251,6 +20377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &288819265
@@ -20415,6 +20542,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &289598258
@@ -20579,6 +20707,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &290608262
@@ -20743,6 +20872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &293428703
@@ -20907,6 +21037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &294610479
@@ -21071,6 +21202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &297426428
@@ -21235,6 +21367,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &299982019
@@ -21533,6 +21666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &304841838
@@ -21697,6 +21831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &305382222
@@ -21861,6 +21996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &306256918
@@ -22025,6 +22161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &309573949
@@ -22189,6 +22326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &310826154
@@ -22353,6 +22491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &313163493
@@ -22517,6 +22656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &314886218
@@ -22681,6 +22821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &316578698
@@ -22845,6 +22986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &319360384
@@ -23009,6 +23151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &320638671
@@ -23173,6 +23316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &321371119
@@ -23470,6 +23614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &328781530
@@ -23634,6 +23779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &329118759
@@ -23736,7 +23882,7 @@ MonoBehaviour:
   gridManager: {fileID: 330470216}
   levelGridFiles:
   - {fileID: 4900000, guid: c619c31665eb99f4ea3451f82b7a5915, type: 3}
-  - {fileID: 4900000, guid: 8818d183bb88f80468a664771afe43a3, type: 3}
+  - {fileID: 4900000, guid: 41ba90cffcbb95b4f9aad9c8bda1bcf7, type: 3}
 --- !u!114 &330470216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23764,6 +23910,15 @@ MonoBehaviour:
   - {fileID: 6757879485573120006, guid: 38ab1b2d99889eb45b4c90573c2a10e1, type: 3}
   - {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
   - {fileID: 1396629766102417045, guid: 85a427da1f7d0de4c98e33e8cfe38b35, type: 3}
+  bonusSpikes:
+  - {fileID: 1407448805}
+  - {fileID: 1910045647}
+  - {fileID: 385091462}
+  - {fileID: 410439718}
+  - {fileID: 1492013675}
+  - {fileID: 1067983110}
+  - {fileID: 1603870254}
+  - {fileID: 1788172729}
 --- !u!1 &334377607
 GameObject:
   m_ObjectHideFlags: 0
@@ -23874,6 +24029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &334377612
@@ -24038,6 +24194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &336670383
@@ -24202,6 +24359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &338786464
@@ -24366,6 +24524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &341524805
@@ -24598,6 +24757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &348454603
@@ -24762,6 +24922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &351028348
@@ -24926,6 +25087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &353313706
@@ -25090,6 +25252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &358196683
@@ -25254,6 +25417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &358329950
@@ -25418,6 +25582,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &359244576
@@ -25582,6 +25747,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &362588862
@@ -25746,6 +25912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &366583916
@@ -25910,6 +26077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &373458476
@@ -26074,6 +26242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &377095643
@@ -26238,6 +26407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &379648215
@@ -26402,6 +26572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &383087953
@@ -26566,6 +26737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &384970264
@@ -26628,6 +26800,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 54
@@ -26700,6 +26876,17 @@ MonoBehaviour:
   mySequence: -1
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &385091462 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 385091453}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260670744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &387315356
 GameObject:
   m_ObjectHideFlags: 0
@@ -26810,6 +26997,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &387315361
@@ -26974,6 +27162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &388872226
@@ -27138,6 +27327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &389830541
@@ -27302,6 +27492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &390291171
@@ -27466,6 +27657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &396862646
@@ -27630,6 +27822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &397074403
@@ -27692,6 +27885,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53
@@ -27859,6 +28056,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &401030990
@@ -28023,6 +28221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &402424213
@@ -28187,6 +28386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &404011080
@@ -28351,6 +28551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &409482024
@@ -28425,6 +28626,17 @@ MonoBehaviour:
   mySequence: 2
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &410439718 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 398191396}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410439710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &412218731
 GameObject:
   m_ObjectHideFlags: 0
@@ -28535,6 +28747,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &412218736
@@ -28699,6 +28912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &416590230
@@ -28863,6 +29077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &418070968
@@ -29027,6 +29242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &422432209
@@ -29191,6 +29407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &425111061
@@ -29355,6 +29572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &426112941
@@ -29519,6 +29737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &426149907
@@ -29683,6 +29902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &427172257
@@ -29847,6 +30067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &431038263
@@ -30027,6 +30248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &435576103
@@ -30191,6 +30413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &443133441
@@ -30355,6 +30578,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &443437374
@@ -30519,6 +30743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &446028782
@@ -30683,6 +30908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &446745875
@@ -30847,6 +31073,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &448525645
@@ -31011,6 +31238,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &450998586
@@ -31175,6 +31403,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &451024130
@@ -31339,6 +31568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &452228724
@@ -31503,6 +31733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &452576275
@@ -31667,6 +31898,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &455189930
@@ -31966,6 +32198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &460285280
@@ -32130,6 +32363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &461836075
@@ -32294,6 +32528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &463627860
@@ -32458,6 +32693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &465084755
@@ -32622,6 +32858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &465702371
@@ -32786,6 +33023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &467819509
@@ -32950,6 +33188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &471809768
@@ -33114,6 +33353,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &477591766
@@ -33278,6 +33518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &481227899
@@ -33442,6 +33683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &488607223
@@ -33606,6 +33848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &488705280
@@ -33845,6 +34088,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &489039273
@@ -34009,6 +34253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &490796726
@@ -34173,6 +34418,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &499065584
@@ -34337,6 +34583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &505852718
@@ -34501,6 +34748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &508274546
@@ -34665,6 +34913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &509944084
@@ -34829,6 +35078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &511708448
@@ -34993,6 +35243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &512863350
@@ -35157,6 +35408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &515439580
@@ -35556,6 +35808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &520289743
@@ -35720,6 +35973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &520391596
@@ -35884,6 +36138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &521773690
@@ -36048,6 +36303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &524309383
@@ -36346,6 +36602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &524648828
@@ -36510,6 +36767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &534002084
@@ -36674,6 +36932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &534301629
@@ -36838,6 +37097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &539913796
@@ -37002,6 +37262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &541225944
@@ -37166,6 +37427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &543151876
@@ -37330,6 +37592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &544911482
@@ -37494,6 +37757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &545060481
@@ -37658,6 +37922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &548903456
@@ -37822,6 +38087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &549202003
@@ -37986,6 +38252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &549799074
@@ -38150,6 +38417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &552485623
@@ -38314,6 +38582,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &553907348
@@ -38478,6 +38747,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &558393860
@@ -38642,6 +38912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &560320625
@@ -38806,6 +39077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &560670346
@@ -38970,6 +39242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &562023130
@@ -39236,6 +39509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &569722397
@@ -39400,6 +39674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &571770535
@@ -39564,6 +39839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &577703610
@@ -39728,6 +40004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &581072495
@@ -39892,6 +40169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &583801850
@@ -40056,6 +40334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &584385937
@@ -40220,6 +40499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &585042999
@@ -40384,6 +40664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &586508823
@@ -40548,6 +40829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &591473498
@@ -40712,6 +40994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &593666122
@@ -40876,6 +41159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &593786313
@@ -41040,6 +41324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &593993922
@@ -41204,6 +41489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &594995052
@@ -41373,6 +41659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &595367992
@@ -41537,6 +41824,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &596834859
@@ -41701,6 +41989,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &600997470
@@ -41865,6 +42154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &606005731
@@ -42029,6 +42319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &607231371
@@ -42193,6 +42484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &608806515
@@ -42394,6 +42686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &614510043
@@ -42558,6 +42851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &616186004
@@ -42722,6 +43016,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &619037316
@@ -42886,6 +43181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &620925792
@@ -43050,6 +43346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &621890902
@@ -43214,6 +43511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &624075019
@@ -43389,6 +43687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &626878057
@@ -43553,6 +43852,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &626992768
@@ -43717,6 +44017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &627129867
@@ -43881,6 +44182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &629805051
@@ -44045,6 +44347,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &632251752
@@ -44209,6 +44512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &641377496
@@ -44373,6 +44677,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &641801690
@@ -44537,6 +44842,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &643857374
@@ -44701,6 +45007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &645319258
@@ -44865,6 +45172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &657391438
@@ -45029,6 +45337,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &660262097
@@ -45193,6 +45502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &660394759
@@ -45357,6 +45667,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &664854229
@@ -45521,6 +45832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &667272499
@@ -45685,6 +45997,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &668487557
@@ -45849,6 +46162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &669951252
@@ -45911,6 +46225,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50
@@ -46078,6 +46396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &674628900
@@ -46320,6 +46639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &681304521
@@ -46484,6 +46804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &685708319
@@ -46648,6 +46969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &688214417
@@ -46812,6 +47134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &689219028
@@ -46976,6 +47299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &690049910
@@ -47140,6 +47464,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &691263642
@@ -47304,6 +47629,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &692796974
@@ -47468,6 +47794,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &695150207
@@ -47632,6 +47959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &695696464
@@ -47796,6 +48124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &697501131
@@ -47960,6 +48289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &698569085
@@ -48124,6 +48454,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &702648403
@@ -48288,6 +48619,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &705552095
@@ -48452,6 +48784,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &706251070
@@ -48616,6 +48949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &707422429
@@ -48780,6 +49114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &710135329
@@ -49080,6 +49415,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &711864512
@@ -49244,6 +49580,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &714633141
@@ -49408,6 +49745,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &717371467
@@ -49572,6 +49910,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &719153230
@@ -49736,6 +50075,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &722967807
@@ -49900,6 +50240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &723133552
@@ -50064,6 +50405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &723877723
@@ -50228,6 +50570,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &725525527
@@ -50392,6 +50735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &727967015
@@ -50556,6 +50900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &728653835
@@ -50720,6 +51065,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &731585607
@@ -50884,6 +51230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &731872320
@@ -51048,6 +51395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &734547911
@@ -51212,6 +51560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &737960021
@@ -51376,6 +51725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &738221914
@@ -51540,6 +51890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &743232587
@@ -51704,6 +52055,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &743822296
@@ -51868,6 +52220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &748985040
@@ -52032,6 +52385,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &751428111
@@ -52196,6 +52550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &759643991
@@ -52360,6 +52715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &759789509
@@ -52524,6 +52880,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &759881823
@@ -52688,6 +53045,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &760208523
@@ -52852,6 +53210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &762838293
@@ -53016,6 +53375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &763411286
@@ -53180,6 +53540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &765092562
@@ -53344,6 +53705,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &767782201
@@ -53592,6 +53954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &769191418
@@ -53756,6 +54119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &770085079
@@ -53920,6 +54284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &775941868
@@ -54084,6 +54449,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &781473765
@@ -54382,6 +54748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &783005342
@@ -54546,6 +54913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &786527387
@@ -54710,6 +55078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &786854700
@@ -54874,6 +55243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &790216249
@@ -55038,6 +55408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &794080778
@@ -55202,6 +55573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &796702966
@@ -55366,6 +55738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &798182336
@@ -55530,6 +55903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &798802998
@@ -55769,6 +56143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &801338660
@@ -55933,6 +56308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &803052144
@@ -56097,6 +56473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &804496395
@@ -56395,6 +56772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &809935758
@@ -56559,6 +56937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &813014968
@@ -56723,6 +57102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &813684195
@@ -56887,6 +57267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &816401780
@@ -57051,6 +57432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &818214837
@@ -57215,6 +57597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &819665627
@@ -57379,6 +57762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &820758417
@@ -57543,6 +57927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &821381255
@@ -57707,6 +58092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &821486173
@@ -57947,6 +58333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &822058745
@@ -58111,6 +58498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &826334013
@@ -58275,6 +58663,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &829661043
@@ -58439,6 +58828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &834071742
@@ -58603,6 +58993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &837067814
@@ -58767,6 +59158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &837120078
@@ -58931,6 +59323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &842373534
@@ -59095,6 +59488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &846090718
@@ -59259,6 +59653,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &849109313
@@ -59423,6 +59818,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &850394930
@@ -59587,6 +59983,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &851916215
@@ -59751,6 +60148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &854115865
@@ -59915,6 +60313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &855109472
@@ -60079,6 +60478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &859384991
@@ -60243,6 +60643,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &860150418
@@ -60407,6 +60808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &867989478
@@ -60571,6 +60973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &868393929
@@ -60735,6 +61138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &868878510
@@ -60899,6 +61303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &871375612
@@ -61063,6 +61468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &891825163
@@ -61227,6 +61633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &897006134
@@ -61391,6 +61798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &897364522
@@ -61555,6 +61963,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &898459861
@@ -61719,6 +62128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &900794570
@@ -61883,6 +62293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &901634535
@@ -62047,6 +62458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &901701370
@@ -62211,6 +62623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &902809081
@@ -62451,6 +62864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &907105483
@@ -62615,6 +63029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &908963222
@@ -62779,6 +63194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &909260194
@@ -62943,6 +63359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &913190584
@@ -63107,6 +63524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &921801713
@@ -63271,6 +63689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &922618809
@@ -63435,6 +63854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &924098196
@@ -63599,6 +64019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &926449259
@@ -63763,6 +64184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &933435869
@@ -63927,6 +64349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &934529056
@@ -64091,6 +64514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &937458502
@@ -64255,6 +64679,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &938907998
@@ -64419,6 +64844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &939963004
@@ -64583,6 +65009,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &940456751
@@ -64747,6 +65174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &941489010
@@ -64911,6 +65339,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &945545234
@@ -65075,6 +65504,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &946567269
@@ -65239,6 +65669,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &947382557
@@ -65403,6 +65834,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &951830047
@@ -65567,6 +65999,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &953930070
@@ -65731,6 +66164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &954686616
@@ -65895,6 +66329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &955187338
@@ -66134,6 +66569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &958629262
@@ -66298,6 +66734,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &960707784
@@ -66764,6 +67201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &962657419
@@ -66928,6 +67366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &963506664
@@ -67092,6 +67531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &965601168
@@ -67256,6 +67696,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &967782799
@@ -67420,6 +67861,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &968500856
@@ -67584,6 +68026,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &970444326
@@ -67748,6 +68191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &971069626
@@ -67912,6 +68356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &976967952
@@ -68076,6 +68521,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &978514148
@@ -68240,6 +68686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &978802103
@@ -68404,6 +68851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &980699472
@@ -68568,6 +69016,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &982225320
@@ -68732,6 +69181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &983669518
@@ -68896,6 +69346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &985065119
@@ -69060,6 +69511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &988316787
@@ -69224,6 +69676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &988324888
@@ -69388,6 +69841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &991093844
@@ -69552,6 +70006,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &992985794
@@ -69716,6 +70171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &993356692
@@ -69880,6 +70336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &995124765
@@ -70044,6 +70501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &995347380
@@ -70208,6 +70666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1003988606
@@ -70372,6 +70831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1004589488
@@ -70536,6 +70996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1004886976
@@ -70700,6 +71161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1006355152
@@ -70864,6 +71326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1006421556
@@ -71104,6 +71567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1007465105
@@ -71268,6 +71732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1010531239
@@ -71432,6 +71897,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1016212247
@@ -71596,6 +72062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1017149585
@@ -71760,6 +72227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1017514463
@@ -71924,6 +72392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1018536964
@@ -72088,6 +72557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1021260133
@@ -72252,6 +72722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1021818617
@@ -72416,6 +72887,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1022090242
@@ -72580,6 +73052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1027411032
@@ -72744,6 +73217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1028023664
@@ -72908,6 +73382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1031722976
@@ -73072,6 +73547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1033773434
@@ -73236,6 +73712,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1035079073
@@ -73400,6 +73877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1036594664
@@ -73564,6 +74042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1037504455
@@ -73728,6 +74207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1038690266
@@ -73892,6 +74372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1039927941
@@ -74056,6 +74537,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1040343938
@@ -74220,6 +74702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1041047934
@@ -74282,6 +74765,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 47
@@ -74449,6 +74936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1041755838
@@ -74613,6 +75101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1042262337
@@ -74777,6 +75266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1047785669
@@ -74941,6 +75431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1048389527
@@ -75105,6 +75596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1048481525
@@ -75269,6 +75761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1049028195
@@ -75433,6 +75926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1049234687
@@ -75597,6 +76091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1049921891
@@ -75761,6 +76256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1050218095
@@ -75925,6 +76421,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1054528585
@@ -76089,6 +76586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1058595794
@@ -76253,6 +76751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1062446232
@@ -76417,6 +76916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1062591038
@@ -76581,6 +77081,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1063583539
@@ -76745,6 +77246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1065809283
@@ -76819,6 +77321,17 @@ MonoBehaviour:
   mySequence: -1
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &1067983110 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 1041648529}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067983102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1068305117
 GameObject:
   m_ObjectHideFlags: 0
@@ -76929,6 +77442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1068305122
@@ -77093,6 +77607,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1069808077
@@ -77257,6 +77772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1070584589
@@ -77421,6 +77937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1077416476
@@ -77585,6 +78102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1077967635
@@ -77749,6 +78267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1079066868
@@ -77913,6 +78432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1079231470
@@ -78077,6 +78597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1079552372
@@ -78241,6 +78762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1083548855
@@ -78405,6 +78927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1087269026
@@ -78569,6 +79092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1088376729
@@ -78733,6 +79257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1092602106
@@ -78897,6 +79422,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1095543561
@@ -79061,6 +79587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1097915183
@@ -79225,6 +79752,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1098742037
@@ -79389,6 +79917,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1098933584
@@ -79553,6 +80082,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1105473727
@@ -79717,6 +80247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1107116804
@@ -79881,6 +80412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1108061372
@@ -80045,6 +80577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1109616651
@@ -80209,6 +80742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1109732841
@@ -80373,6 +80907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1113487170
@@ -80537,6 +81072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1115380599
@@ -80701,6 +81237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1116369612
@@ -80865,6 +81402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1125107057
@@ -81029,6 +81567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1125656886
@@ -81193,6 +81732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1126880465
@@ -81357,6 +81897,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1127707643
@@ -81521,6 +82062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1128554255
@@ -81685,6 +82227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1130506215
@@ -81849,6 +82392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1131834419
@@ -82013,6 +82557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1134326133
@@ -82177,6 +82722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1135750126
@@ -82341,6 +82887,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1136842853
@@ -82505,6 +83052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1137808428
@@ -82669,6 +83217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1138047118
@@ -82833,6 +83382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1139615176
@@ -82997,6 +83547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1140215546
@@ -83161,6 +83712,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1141141398
@@ -83325,6 +83877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1143524679
@@ -83489,6 +84042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1144505537
@@ -83653,6 +84207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1144745266
@@ -83817,6 +84372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1145226169
@@ -83981,6 +84537,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1145831228
@@ -84145,6 +84702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1146543976
@@ -84309,6 +84867,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1150646843
@@ -84473,6 +85032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1151463440
@@ -84637,6 +85197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1154346559
@@ -84801,6 +85362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1154756241
@@ -84965,6 +85527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1157206507
@@ -85129,6 +85692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1159533035
@@ -85293,6 +85857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1166528867
@@ -85457,6 +86022,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1168137305
@@ -85654,6 +86220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1172653990
@@ -85818,6 +86385,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1175010019
@@ -85982,6 +86550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1178526406
@@ -86146,6 +86715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1179814437
@@ -86386,6 +86956,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1185608277
@@ -86550,6 +87121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1186404555
@@ -86714,6 +87286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1187160017
@@ -86878,6 +87451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1191537413
@@ -87042,6 +87616,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1193352391
@@ -87206,6 +87781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1195855395
@@ -87370,6 +87946,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1196387193
@@ -87670,6 +88247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1198873749
@@ -87834,6 +88412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1211035125
@@ -87998,6 +88577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1211494447
@@ -88162,6 +88742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1215028398
@@ -88326,6 +88907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1218340795
@@ -88490,6 +89072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1219730960
@@ -88654,6 +89237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1223906937
@@ -88818,6 +89402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1225507361
@@ -88982,6 +89567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1227451663
@@ -89279,6 +89865,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1232147731
@@ -89443,6 +90030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1233536707
@@ -89607,6 +90195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1241039801
@@ -89771,6 +90360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1242133576
@@ -89935,6 +90525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1249041879
@@ -90099,6 +90690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1249631379
@@ -90263,6 +90855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1252150978
@@ -90427,6 +91020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1252438983
@@ -90591,6 +91185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1253754644
@@ -90755,6 +91350,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1253833337
@@ -90919,6 +91515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1254272544
@@ -91083,6 +91680,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1257153356
@@ -91247,6 +91845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1257246217
@@ -91411,6 +92010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1259201051
@@ -91575,6 +92175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1261022711
@@ -91739,6 +92340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1261220589
@@ -91903,6 +92505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1261852518
@@ -92067,6 +92670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1263678112
@@ -92231,6 +92835,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1263750468
@@ -92395,6 +93000,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1265761398
@@ -92559,6 +93165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1269221420
@@ -92723,6 +93330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1270336868
@@ -92887,6 +93495,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1274444159
@@ -93051,6 +93660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1274698532
@@ -93215,6 +93825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1276884427
@@ -93379,6 +93990,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1278104681
@@ -93582,6 +94194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1282828458
@@ -93746,6 +94359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1284823067
@@ -93910,6 +94524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1285477950
@@ -94074,6 +94689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1285504808
@@ -94238,6 +94854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1285597259
@@ -94477,6 +95094,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1286726217
@@ -94641,6 +95259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1287604071
@@ -94805,6 +95424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1287876759
@@ -94969,6 +95589,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1289955988
@@ -95133,6 +95754,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1295812985
@@ -95297,6 +95919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1303004249
@@ -95461,6 +96084,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1311211699
@@ -95625,6 +96249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1313941382
@@ -95687,6 +96312,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50
@@ -95854,6 +96483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1319985608
@@ -96018,6 +96648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1322515498
@@ -96316,6 +96947,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1335944408
@@ -96480,6 +97112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1339951399
@@ -96644,6 +97277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1339955312
@@ -96808,6 +97442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1343909244
@@ -96972,6 +97607,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1345967581
@@ -97136,6 +97772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1348266805
@@ -97300,6 +97937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1348627332
@@ -97464,6 +98102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1349071681
@@ -97628,6 +98267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1349343137
@@ -97792,6 +98432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1353199723
@@ -97956,6 +98597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1353984052
@@ -98120,6 +98762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1358596273
@@ -98284,6 +98927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1359117829
@@ -98448,6 +99092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1360309877
@@ -98612,6 +99257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1364925150
@@ -98776,6 +99422,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1365145145
@@ -98940,6 +99587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1367955654
@@ -99104,6 +99752,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1369820711
@@ -99268,6 +99917,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1371040626
@@ -99432,6 +100082,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1373427671
@@ -99596,6 +100247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1374850934
@@ -99760,6 +100412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1376460141
@@ -99924,6 +100577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1377281760
@@ -100088,6 +100742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1380226699
@@ -100252,6 +100907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1384899806
@@ -100416,6 +101072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1390053865
@@ -100580,6 +101237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1390355921
@@ -100744,6 +101402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1396123393
@@ -100908,6 +101567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1396989841
@@ -101072,6 +101732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1398288912
@@ -101236,6 +101897,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1399871354
@@ -101400,6 +102062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1400626773
@@ -101564,6 +102227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1402098057
@@ -101728,6 +102392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1402507061
@@ -101802,6 +102467,17 @@ MonoBehaviour:
   mySequence: 0
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &1407448805 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 1315584814}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407448797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1409882494
 GameObject:
   m_ObjectHideFlags: 0
@@ -101912,6 +102588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1409882499
@@ -102076,6 +102753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1410303636
@@ -102240,6 +102918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1410641524
@@ -102404,6 +103083,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1413993468
@@ -102568,6 +103248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1417571160
@@ -102732,6 +103413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1419554036
@@ -102971,6 +103653,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1420779509
@@ -103135,6 +103818,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1421836348
@@ -103299,6 +103983,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1423115883
@@ -103463,6 +104148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1424308248
@@ -103627,6 +104313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1427041327
@@ -103791,6 +104478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1428862204
@@ -103955,6 +104643,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1429626324
@@ -104119,6 +104808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1429880088
@@ -104283,6 +104973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1430424575
@@ -104447,6 +105138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1431978349
@@ -104509,6 +105201,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1281611568}
     m_Modifications:
+    - target: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+      propertyPath: bonusSpike
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2380325722984023341, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53
@@ -104676,6 +105372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1448253279
@@ -104840,6 +105537,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1451293629
@@ -105004,6 +105702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1451583950
@@ -105168,6 +105867,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1452212174
@@ -105332,6 +106032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1452408751
@@ -105496,6 +106197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1452734346
@@ -105660,6 +106362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1453707742
@@ -105824,6 +106527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1455983255
@@ -105988,6 +106692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1456443448
@@ -106152,6 +106857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1457283796
@@ -106316,6 +107022,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1457395163
@@ -106480,6 +107187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1462591456
@@ -106644,6 +107352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1465808549
@@ -106808,6 +107517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1467269509
@@ -106972,6 +107682,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1473862174
@@ -107245,6 +107956,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1486643497
@@ -107409,6 +108121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1487594289
@@ -107573,6 +108286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1489286197
@@ -107647,6 +108361,17 @@ MonoBehaviour:
   mySequence: -1
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &1492013675 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 673114746}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492013667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1492404385
 GameObject:
   m_ObjectHideFlags: 0
@@ -107757,6 +108482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1492404390
@@ -107921,6 +108647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1495525209
@@ -108085,6 +108812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1498806363
@@ -108249,6 +108977,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1499096251
@@ -108413,6 +109142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1501665419
@@ -108577,6 +109307,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1504842270
@@ -108741,6 +109472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1506766067
@@ -108905,6 +109637,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1507282999
@@ -109069,6 +109802,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1507810529
@@ -109233,6 +109967,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1508609519
@@ -109397,6 +110132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1509917285
@@ -109695,6 +110431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1514389093
@@ -109859,6 +110596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1519581089
@@ -110023,6 +110761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1520666418
@@ -110187,6 +110926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1521179923
@@ -110351,6 +111091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1523869743
@@ -110515,6 +111256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1525323734
@@ -110679,6 +111421,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1526943333
@@ -110843,6 +111586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1528615345
@@ -111007,6 +111751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1529457412
@@ -111171,6 +111916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1529738714
@@ -111335,6 +112081,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1529777651
@@ -111499,6 +112246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1534614069
@@ -111663,6 +112411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1535005318
@@ -111903,6 +112652,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1537009025
@@ -112067,6 +112817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1537892754
@@ -112231,6 +112982,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1538112466
@@ -112613,6 +113365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1546598623
@@ -112777,6 +113530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1551302323
@@ -112941,6 +113695,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1551834206
@@ -113105,6 +113860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1556674723
@@ -113269,6 +114025,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1560745928
@@ -113433,6 +114190,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1562680372
@@ -113597,6 +114355,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1564616489
@@ -113761,6 +114520,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1567458585
@@ -113925,6 +114685,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1567804732
@@ -114089,6 +114850,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1569405234
@@ -114253,6 +115015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1574852337
@@ -114417,6 +115180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1576496927
@@ -114581,6 +115345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1578315212
@@ -114745,6 +115510,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1584300913
@@ -114909,6 +115675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1585144708
@@ -115073,6 +115840,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1586536465
@@ -115370,6 +116138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1588118095
@@ -115534,6 +116303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1588345229
@@ -115698,6 +116468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1590069793
@@ -115862,6 +116633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1594539037
@@ -116026,6 +116798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1596854092
@@ -116100,6 +116873,17 @@ MonoBehaviour:
   mySequence: 1
   left: 1
   player: {fileID: 625968774}
+--- !u!114 &1603870254 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 70149092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603870246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1605677051
 GameObject:
   m_ObjectHideFlags: 0
@@ -116210,6 +116994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1605677056
@@ -116374,6 +117159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1607667969
@@ -116538,6 +117324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1608863048
@@ -116702,6 +117489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1608946322
@@ -116866,6 +117654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1609382266
@@ -117030,6 +117819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1611138952
@@ -117264,6 +118054,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1614888111
@@ -117428,6 +118219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1617336207
@@ -117592,6 +118384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1617668620
@@ -117756,6 +118549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1618124411
@@ -117920,6 +118714,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1629454546
@@ -118084,6 +118879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1632895767
@@ -118248,6 +119044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1633041161
@@ -118412,6 +119209,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1633785602
@@ -118576,6 +119374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1638601788
@@ -118740,6 +119539,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1639005929
@@ -118904,6 +119704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1640111413
@@ -119068,6 +119869,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1641374507
@@ -119232,6 +120034,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1643120351
@@ -119396,6 +120199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1643903083
@@ -119560,6 +120364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1645922301
@@ -119724,6 +120529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1647358983
@@ -119888,6 +120694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1647415965
@@ -120052,6 +120859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1650180861
@@ -120216,6 +121024,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1652337284
@@ -120380,6 +121189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1654683637
@@ -120544,6 +121354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1660384215
@@ -120708,6 +121519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1660503419
@@ -120872,6 +121684,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1660681635
@@ -121036,6 +121849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1660835893
@@ -121200,6 +122014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1661355401
@@ -121364,6 +122179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1662491007
@@ -121528,6 +122344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1663966760
@@ -121692,6 +122509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1664437131
@@ -121856,6 +122674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1666906911
@@ -122020,6 +122839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1679313490
@@ -122184,6 +123004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1681211452
@@ -122348,6 +123169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1682376362
@@ -122512,6 +123334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1687336708
@@ -122810,6 +123633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1693232941
@@ -123108,6 +123932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1698190129
@@ -123272,6 +124097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1698284600
@@ -123436,6 +124262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1706616775
@@ -123684,6 +124511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1713106291
@@ -123848,6 +124676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1713289289
@@ -124012,6 +124841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1721357202
@@ -124176,6 +125006,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1724817381
@@ -124340,6 +125171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1724842069
@@ -124504,6 +125336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1727410264
@@ -124668,6 +125501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1729089764
@@ -124832,6 +125666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1729370221
@@ -124996,6 +125831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1733200149
@@ -125160,6 +125996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1736142162
@@ -125324,6 +126161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1740215030
@@ -125488,6 +126326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1741541119
@@ -125652,6 +126491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1741745702
@@ -125859,6 +126699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1742837276
@@ -126023,6 +126864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1743796232
@@ -126187,6 +127029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1745224118
@@ -126351,6 +127194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1745366486
@@ -126515,6 +127359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1747933440
@@ -126679,6 +127524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1749613129
@@ -126843,6 +127689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1754825154
@@ -127007,6 +127854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1755438149
@@ -127171,6 +128019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1755690199
@@ -127335,6 +128184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1756147402
@@ -127499,6 +128349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1756655495
@@ -127663,6 +128514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1759368094
@@ -127961,6 +128813,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1762358456
@@ -128125,6 +128978,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1766434886
@@ -128289,6 +129143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1767030375
@@ -128453,6 +129308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1770130173
@@ -128617,6 +129473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1770788454
@@ -128781,6 +129638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1773291453
@@ -128945,6 +129803,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1774153157
@@ -129109,6 +129968,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1775356246
@@ -129273,6 +130133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1775861144
@@ -129437,6 +130298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1776658335
@@ -129601,6 +130463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1778376005
@@ -129765,6 +130628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1780762874
@@ -129929,6 +130793,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1786144036
@@ -130003,6 +130868,17 @@ MonoBehaviour:
   mySequence: 5
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &1788172729 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 82444988}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788172721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1788753493
 GameObject:
   m_ObjectHideFlags: 0
@@ -130113,6 +130989,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1788753498
@@ -130277,6 +131154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1788886806
@@ -130441,6 +131319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1790644665
@@ -130605,6 +131484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1791313611
@@ -130769,6 +131649,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1794187237
@@ -130933,6 +131814,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1798247567
@@ -131097,6 +131979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1798721772
@@ -131345,6 +132228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1801460093
@@ -131549,6 +132433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1805535654
@@ -131713,6 +132598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1806968514
@@ -131877,6 +132763,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1808217916
@@ -132041,6 +132928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1809813949
@@ -132289,6 +133177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1812716894
@@ -132453,6 +133342,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1814635794
@@ -132617,6 +133507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1815358212
@@ -132781,6 +133672,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1815661331
@@ -132945,6 +133837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1815768121
@@ -134020,6 +134913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1818563145
@@ -134184,6 +135078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1820718390
@@ -134348,6 +135243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1821514319
@@ -134512,6 +135408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1821652987
@@ -134676,6 +135573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1823661485
@@ -134840,6 +135738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1826320321
@@ -135137,6 +136036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1830068417
@@ -135301,6 +136201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1840923062
@@ -135465,6 +136366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1849688774
@@ -135629,6 +136531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1851681913
@@ -135877,6 +136780,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1857293670
@@ -136041,6 +136945,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1859037004
@@ -136205,6 +137110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1861341099
@@ -136502,6 +137408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1864978492
@@ -136666,6 +137573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1868222881
@@ -136830,6 +137738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1875208438
@@ -136994,6 +137903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1878991251
@@ -137158,6 +138068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1889962601
@@ -137322,6 +138233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1890216687
@@ -137486,6 +138398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1891601118
@@ -137650,6 +138563,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1903029579
@@ -137814,6 +138728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1903973494
@@ -137978,6 +138893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1905503660
@@ -138142,6 +139058,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1906423832
@@ -138306,6 +139223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1907933301
@@ -138380,6 +139298,17 @@ MonoBehaviour:
   mySequence: 3
   left: 0
   player: {fileID: 625968774}
+--- !u!114 &1910045647 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1287288506903963752, guid: f06fec7dd76c299429e58f99e9f763ae, type: 3}
+  m_PrefabInstance: {fileID: 1443912123}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910045639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8df5b1b2b309641997729bb0e28f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1911694635
 GameObject:
   m_ObjectHideFlags: 0
@@ -138490,6 +139419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1911694640
@@ -138654,6 +139584,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1911808404
@@ -138818,6 +139749,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1913804300
@@ -138982,6 +139914,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1916671558
@@ -139146,6 +140079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1916957091
@@ -139402,6 +140336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1918968386
@@ -139700,6 +140635,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1919843242
@@ -139864,6 +140800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1920366904
@@ -140028,6 +140965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1923095783
@@ -140231,6 +141169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1929386912
@@ -140395,6 +141334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1929621405
@@ -140559,6 +141499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1930450081
@@ -140723,6 +141664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1930500140
@@ -140887,6 +141829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1931002477
@@ -141051,6 +141994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1932840558
@@ -141215,6 +142159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1934054840
@@ -141379,6 +142324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1934261750
@@ -141678,6 +142624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1935395985
@@ -141842,6 +142789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1940041398
@@ -142006,6 +142954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1941425310
@@ -142170,6 +143119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1941907780
@@ -142410,6 +143360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1944658543
@@ -142574,6 +143525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1948436517
@@ -142738,6 +143690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1951473920
@@ -142902,6 +143855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1951741699
@@ -143066,6 +144020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1952101426
@@ -143230,6 +144185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1953047201
@@ -143394,6 +144350,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1954726283
@@ -143558,6 +144515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1956054398
@@ -143722,6 +144680,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1958646067
@@ -143886,6 +144845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1959741394
@@ -144050,6 +145010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1964848008
@@ -144214,6 +145175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1964942342
@@ -144378,6 +145340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1969097543
@@ -144542,6 +145505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1973672546
@@ -144706,6 +145670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1975204550
@@ -144909,6 +145874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1983122018
@@ -145113,6 +146079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1988448611
@@ -145277,6 +146244,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &1993813121
@@ -145687,6 +146655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2000653524
@@ -145851,6 +146820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2000850359
@@ -146015,6 +146985,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2003676532
@@ -146179,6 +147150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2006508167
@@ -146343,6 +147315,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2007626243
@@ -146507,6 +147480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2013077173
@@ -146671,6 +147645,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2013110808
@@ -146835,6 +147810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2013668836
@@ -146999,6 +147975,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2014228289
@@ -147163,6 +148140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2021929778
@@ -147463,6 +148441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2024412470
@@ -147627,6 +148606,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2031372611
@@ -147791,6 +148771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2032095717
@@ -147955,6 +148936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2032944514
@@ -148119,6 +149101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2033388852
@@ -148283,6 +149266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2040777134
@@ -148447,6 +149431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2047110804
@@ -148611,6 +149596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2047829807
@@ -148775,6 +149761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2050869341
@@ -148939,6 +149926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2051171192
@@ -149103,6 +150091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2053717294
@@ -149267,6 +150256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2054619526
@@ -149431,6 +150421,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2056069565
@@ -149595,6 +150586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2058287532
@@ -149795,6 +150787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2064980026
@@ -149959,6 +150952,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2070422882
@@ -150123,6 +151117,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2074961101
@@ -150287,6 +151282,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2077605683
@@ -150451,6 +151447,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2083578215
@@ -150615,6 +151612,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2084646750
@@ -150779,6 +151777,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2084793639
@@ -150943,6 +151942,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2084847282
@@ -151107,6 +152107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2088898614
@@ -151271,6 +152272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2090210647
@@ -151435,6 +152437,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2095548200
@@ -151599,6 +152602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2095576004
@@ -151763,6 +152767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2096358603
@@ -151927,6 +152932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2098308367
@@ -152091,6 +153097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2100543356
@@ -152255,6 +153262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2109946312
@@ -152419,6 +153427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2110200695
@@ -152583,6 +153592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2110974950
@@ -152747,6 +153757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2112413378
@@ -152911,6 +153922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2115729138
@@ -153075,6 +154087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2115750361
@@ -153239,6 +154252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2117295389
@@ -153403,6 +154417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2118726830
@@ -153567,6 +154582,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2122564724
@@ -153731,6 +154747,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2124041819
@@ -153895,6 +154912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2124934592
@@ -154059,6 +155077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2127805486
@@ -154223,6 +155242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2130905395
@@ -154387,6 +155407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2131543224
@@ -154551,6 +155572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2139618740
@@ -154715,6 +155737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2140232925
@@ -154879,6 +155902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2143460938
@@ -155043,6 +156067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: 2
+  bonusSpike: 0
   bouncePadSR: {fileID: 0}
   bouncePadCol: {fileID: 0}
 --- !u!212 &2145844932

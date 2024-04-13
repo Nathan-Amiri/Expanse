@@ -24,6 +24,8 @@ public class GridManager : MonoBehaviour
 
     [SerializeField] private List<Item> itemPrefs = new(); // 0 = block, 1 = bounce pad, 2 = spike, 3 = chest
 
+    [SerializeField] private List<Item> bonusSpikes = new();
+
     public Item SpawnItem(int itemType, Vector2Int itemPosition, Quaternion itemRotation)
     {
         Item item = Instantiate(itemPrefs[itemType], (Vector2)itemPosition, itemRotation, itemParent);
@@ -42,8 +44,8 @@ public class GridManager : MonoBehaviour
         if (item.itemType == 3)
             chestIndex.Remove(item);
 
-        Destroy(item.gameObject);
         gridIndex.Remove(destroyPosition);
+        Destroy(item.gameObject);
     }
 
     public void SelectLevel(int level)
@@ -62,6 +64,9 @@ public class GridManager : MonoBehaviour
             tutorialText.SetActive(true);
 
         arrow.SetActive(true);
+
+        foreach (Item bonusSpike in bonusSpikes)
+            gridIndex.Add(Vector2Int.RoundToInt(bonusSpike.transform.position), bonusSpike);
     }
 
     public void ReturnToMenu()
@@ -72,7 +77,8 @@ public class GridManager : MonoBehaviour
     public void ConfirmQuit()
     {
         foreach (KeyValuePair<Vector2Int, Item> gridIndexEntry in gridIndex)
-            Destroy(gridIndexEntry.Value.gameObject);
+            if (!gridIndexEntry.Value.bonusSpike)
+                Destroy(gridIndexEntry.Value.gameObject);
 
         gridIndex.Clear();
         chestIndex.Clear();

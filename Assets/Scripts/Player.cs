@@ -72,10 +72,10 @@ public class Player : MonoBehaviour
     private int penaltyPoints;
     private int chestPoints;
 
-    private int bonusChestsFound;
         // Read by BonusSpike
     [NonSerialized] public bool celesteBonusChestReceived;
     private bool vvvvvvBonusChestReceived;
+    private int vvvvvvPresses;
 
         // Set by GroundCheck:
     [NonSerialized] public bool isGrounded;
@@ -106,10 +106,13 @@ public class Player : MonoBehaviour
 
         celesteBonusChestReceived = false;
         vvvvvvBonusChestReceived = false;
+        vvvvvvPresses = 0;
     }
 
     private void Update()
     {
+        VVVVVVBonus();
+
         if (Application.isEditor)
             LevelEditorControls();
 
@@ -408,10 +411,32 @@ public class Player : MonoBehaviour
 
     public void BonusChest(Vector2Int bonusChestPosition)
     {
-        bonusChestsFound += 1;
-
-        // message
+        if (GridManager.gridIndex.ContainsKey(bonusChestPosition))
+            gridManager.DestroyItem(bonusChestPosition);
+        gridManager.SpawnItem(3, bonusChestPosition, Quaternion.identity);
 
         StartCoroutine(audioManager.PlayClip(7));
+    }
+
+    private void VVVVVVBonus() // Run in Update
+    {
+        if (vvvvvvBonusChestReceived)
+            return;
+
+        if (Input.GetKeyDown(KeyCode.V))
+            vvvvvvPresses += 1;
+
+        if (vvvvvvPresses == 0)
+            return;
+
+        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.D) || Input.GetMouseButtonDown(0))
+            vvvvvvPresses = 0;
+
+        if (vvvvvvPresses == 6)
+        {
+            BonusChest(new(-54, -79));
+
+            vvvvvvBonusChestReceived = true;
+        }
     }
 }
