@@ -17,8 +17,12 @@ public class AudioManager : MonoBehaviour
         for (int i = 0; i < clipList.Count; i++)
             clipPlaying.Add(false);
     }
-    
-    public IEnumerator PlayClip(int clipNumber)
+
+    public void PlayClip(int clipNumber)
+    {
+        StartCoroutine(ClipRoutine(clipNumber));
+    }
+    private IEnumerator ClipRoutine(int clipNumber)
     {
         if (clipPlaying[clipNumber]) yield break;
 

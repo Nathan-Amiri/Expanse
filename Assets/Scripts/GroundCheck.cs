@@ -9,6 +9,11 @@ public class GroundCheck : MonoBehaviour
     {
         if (col.CompareTag("Terrain"))
         {
+            Vector2Int groundedPosition = Vector2Int.RoundToInt(col.transform.position + new Vector3(0, 1));
+
+            if (GridManager.gridIndex.ContainsKey(groundedPosition))
+                return;
+
             player.isGrounded = true;
             player.lastGroundedPosition = Vector2Int.RoundToInt(col.transform.position + new Vector3(0, 1));
         }

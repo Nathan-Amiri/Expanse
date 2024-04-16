@@ -200,7 +200,7 @@ public class Player : MonoBehaviour
 
         // Snappy horizontal movement:
         // (This movement method will prevent the player from slowing completely in a frictionless environment. To prevent this,
-        // ensure that either at least a tiny bit of friction is present or the player's velocity is rounded to 0 when low enough)
+        // this rigidbody's linear velocity is set to .01)
         float desiredVelocity = moveInput * moveSpeed;
         float velocityChange = desiredVelocity - rb.velocity.x;
         float acceleration = velocityChange / .05f;
@@ -231,7 +231,7 @@ public class Player : MonoBehaviour
 
                 rb.velocity = new(rb.velocity.x, jumpForce);
 
-                StartCoroutine(audioManager.PlayClip(1));
+                audioManager.PlayClip(1);
             }
         }
     }
@@ -292,7 +292,7 @@ public class Player : MonoBehaviour
 
         currentMaterial -= block ? 1 : 2;
 
-        StartCoroutine(audioManager.PlayClip(2));
+        audioManager.PlayClip(2);
     }
     private IEnumerator NoMaterial()
     {
@@ -307,7 +307,7 @@ public class Player : MonoBehaviour
 
         bouncePadToPlace = null;
 
-        StartCoroutine(audioManager.PlayClip(2));
+        audioManager.PlayClip(2);
     }
 
     private void DestroyItem()
@@ -361,11 +361,15 @@ public class Player : MonoBehaviour
         float warpSpeed = Vector2.Distance(lastGroundedPosition, transform.position) / deathWarpDuration;
         rb.velocity = warpSpeed * ((Vector3)lastGroundedPosition - transform.position).normalized;
 
-        StartCoroutine(audioManager.PlayClip(4));
+        audioManager.PlayClip(4);
     }
     private IEnumerator DeathWarp(float duration)
     {
         yield return new WaitForSeconds(duration);
+
+        Vector2Int destination = Vector2Int.RoundToInt(lastGroundedPosition);
+        if (GridManager.gridIndex.ContainsKey(destination))
+            gridManager.DestroyItem(destination);
 
         rb.velocity = Vector3.zero;
         transform.position = (Vector3)lastGroundedPosition;
@@ -386,7 +390,7 @@ public class Player : MonoBehaviour
         rb.AddForce(bounceVelocity, ForceMode2D.Impulse);
         hasJump = true;
 
-        StartCoroutine(audioManager.PlayClip(3));
+        audioManager.PlayClip(3);
     }
 
     public void OpenChest(Vector2Int chestPosition)
@@ -396,7 +400,7 @@ public class Player : MonoBehaviour
         currentMaterial += materialPerChest;
         chestPoints += pointsPerChest;
 
-        StartCoroutine(audioManager.PlayClip(5));
+        audioManager.PlayClip(5);
 
         if (GridManager.chestIndex.Count == 0)
         {
@@ -415,7 +419,7 @@ public class Player : MonoBehaviour
             gridManager.DestroyItem(bonusChestPosition);
         gridManager.SpawnItem(3, bonusChestPosition, Quaternion.identity);
 
-        StartCoroutine(audioManager.PlayClip(7));
+        audioManager.PlayClip(7);
     }
 
     private void VVVVVVBonus() // Run in Update
