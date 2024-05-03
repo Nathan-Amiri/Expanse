@@ -1,4 +1,4 @@
-Expanse is a 'sandbox platformer' with an emphasis on exploration. Created in just over 24 hours
+Expanse is a sandbox/platformer/exploration game created in just over 24 hours
 
 Created in Unity and coded in Visual Studio 2022
 
